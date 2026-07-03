@@ -2,7 +2,7 @@
 
 Autor: Albert Śliwiński
 
-Link do aplikacji: wklej tutaj link po wdrozeniu na Streamlit Community Cloud
+Link do aplikacji: https://weatherapp-9v6r4qroqc8rv5ajamqjmw.streamlit.app/
 
 ## Opis projektu
 
